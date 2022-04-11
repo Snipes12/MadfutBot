@@ -1,0 +1,2 @@
+# MadfutBot
+Madfut Trading Bot
